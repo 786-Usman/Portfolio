@@ -1,0 +1,235 @@
+.box{
+   text-align: center;
+    color: honeydew;
+    height: 350px;
+    padding-top: 100px;
+    flex-direction: row;
+    display: flex;
+    flex-wrap: wrap;
+ 
+
+}
+
+.carouselExampleCaptions{
+    display: flex !important;
+    flex-wrap: wrap !important;
+}
+.navbar{
+    background-color: #37474F !important;
+    
+}
+
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+    font-weight: bold;
+    font-size: 25px !important;
+   text-shadow:3px 3px 3px black; 
+}
+
+
+.progress-bar{
+    
+    background-color: #37474F !important;
+}
+.abouttext{
+    margin-bottom: 20px;
+}
+
+h3{
+    font-weight: bold;
+}
+.about{
+    
+    padding: 35px;
+    margin-top:50px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+} 
+.projects1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border:2px solid transparent;
+    color: #37474F;
+   box-shadow: 2px 3px 3px 5px black;
+   padding: 3px; 
+   padding-top: 5px;
+  margin-left: 15px;
+  margin-top: 40px;
+    width: 200px;
+    height: 100px;
+    align-items: center;
+    font-weight: bold;
+     display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.projects1 a {
+    text-decoration: none;
+    color: #37474F;
+    text-align: center;
+    margin: 5px;
+
+}
+.aboutchildtwo {
+    padding-left: 50px;
+    width: 400px;
+}
+
+.intro{
+    padding: 2px;
+    margin: 0px;
+    font-size: 45px;
+    
+}
+h5{
+   padding-top: 15px;
+}
+.para{
+    
+    text-align: justify;
+    width: 500px;
+   
+}
+.icon{
+    color: #37474F;
+    font-size:15px;
+}
+
+
+.f{
+    border-radius:105px;
+    background-color:transparent;
+    color: #37474F;
+    width: 25px;
+    padding: 4px;
+    margin-top: 15px;
+    box-shadow:2px 2px 2px 2px #37474F;
+    text-align: center;
+  
+}
+.t,.g{
+    border-radius:105px;
+    background-color:transparent;
+    width: 30px;
+    color: #37474F;
+    padding: 5px;
+    box-shadow:2px 2px 2px 2px #37474F;
+    text-align: center;
+
+}
+
+.heading{
+    font-size:12px;
+}
+.icon2 a {
+    font-size: 20px;
+    padding:8px;
+    margin: 5px;
+}
+
+.line{
+    padding-top: 8px;
+    margin-top: 15px;
+}
+
+.myservice{
+    padding-top: 35px;
+    text-align: center;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+   justify-content: center;
+  
+}
+h1{
+    color: #37474F;
+    text-shadow: 2px 2px 2px bisque;
+    font-family: fantasy;
+}
+
+.container4{
+    margin-top: 75px;
+}
+.web,.grphics{ 
+    font-family: sans-serif;
+    border:2px solid transparent;
+    color: #37474F;
+   box-shadow: 2px 3px 3px 5px black;
+   padding: 3px; 
+   padding-top: 5px;
+  margin-left: 15px;
+  margin-top: 40px;
+    width: 240px;
+    height: 160px;
+    text-align: center;
+    font-weight: bold;
+}
+.web,.grphics{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.container5{
+    margin-top: 100px;
+}
+.web2,.grphics2{ 
+    font-family: sans-serif;
+    border:2px solid transparent;
+    color: #37474F;
+    box-shadow: 2px 3px 3px 5px black;
+    padding: 5px;
+    margin: 10px;
+    margin-top: 40px;
+    width: 300px;
+    height: 50%;
+    text-align: center;
+    font-weight: bold;
+}
+.form{
+    padding: 30px;
+    margin-left: 150px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.name{
+    padding: 10px;
+    margin: 5px;
+}
+.mail{
+    padding: 10px;
+    margin: 5px;
+}
+.message{
+    padding: 10px;
+    margin: 5px;
+}
+.sumbit{
+    border: 2px solid transparent;
+    background-color: #37474F;
+    color: white;
+    width: 180px;
+    text-align: center;
+    margin-left: 10px;
+    font-weight: bold;
+}
+.footer{
+    border: 2px solid #37474F;
+    background-color:#37474F ;
+    color: white;
+    width: auto;
+    height: 180px;
+    text-align: center;
+    padding: px;
+}
+.u{
+    font-size: 45px;
+    
+    font-family: fantasy;
+}
+
